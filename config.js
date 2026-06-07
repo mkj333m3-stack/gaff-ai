@@ -8,9 +8,9 @@ global.ButtonV2 = ButtonV2;
 global.Carousel = Carousel;
 global.AIRich = AIRich;
 
-global.pairingNumber = 212666666666;
+global.pairingNumber = 201270221253;
 global.owner = [
-  ['212717457920', 'noureddine Ouafy', true],
+  ['201270221253', 'noureddine Ouafy', true],
   ['', 'Owner 2', true],
 ];
 
